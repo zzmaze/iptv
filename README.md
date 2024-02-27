@@ -6,8 +6,8 @@
 
   在看电视直播软件中直接输入以下任一地址即可：
   
-  https://raw.githubusercontent.com/PaiDX1314/iptv/main/iptv.txt
-  https://raw.githubusercontent.com/PaiDX1314/iptv/main/iptv.m3u
+  https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt
+  https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.m3u
   
   每小时运行，更新更及时。
 
