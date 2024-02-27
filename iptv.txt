@@ -26,7 +26,6 @@ CCTV7,http://112.235.202.159:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&
 CCTV8,http://1.194.50.138:10086/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://112.235.200.153:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://112.235.200.85:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8纪录,http://112.6.117.141:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://1.194.50.138:10086/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://111.161.150.120:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://112.235.200.153:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -54,8 +53,8 @@ CCTV16,http://123.189.36.95:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&a
 CCTV17,http://112.235.200.61:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://112.235.202.190:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://112.235.200.195:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV教育,http://58.53.154.172:9901/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV教育,http://58.53.154.26:9901/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV1,http://58.53.154.172:9901/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV1教,http://58.53.154.26:9901/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 东南卫视,http://123.160.232.232:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
