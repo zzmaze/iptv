@@ -23,7 +23,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         line = line.strip()
         if line:
             channel_name, channel_url = line.split(',')
-          if 'CCTV' in channel_name and 'CGTN' in channel_name and 'CETV' in channel_name::
+          if 'CCTV' in channel_name and 'CGTN' in channel_name and 'CETV' in channel_name:
                 channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
