@@ -31,6 +31,9 @@ jobs:
         
       - name: Run qita
         run: python ${{ github.workspace }}/qita.py
+
+        - name: Run iptv
+        run: python ${{ github.workspace }}/iptv.py
         
       - name: 提交更改
         run: |
