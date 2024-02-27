@@ -2,7 +2,7 @@ name: iptv
 
 on:
   schedule:
-    - cron: '0 1,5,9,13,17,21 * * *'
+    - cron: '0 4,9,13,17,21,00 * * *'
 
 jobs:
   build:
