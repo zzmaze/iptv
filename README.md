@@ -8,7 +8,7 @@ fork自https://github.com/ssili126/tv.git
   在看电视直播软件中直接输入以下任一地址即可：
   
       https://raw.githubusercontent.com/PaiDX1314/iptv/main/itvlist.txt
-         https://raw.githubusercontent.com/PaiDX1314/iptv/main/itvlist.m3u
+    https://raw.githubusercontent.com/PaiDX1314/iptv/main/itvlist.m3u
   
   增加时间标签；因频道太多，cctv、卫视及其它频道均修改为单独的文件运行；每四小时运行，更新更及时。
 
