@@ -21,7 +21,7 @@ jobs:
         run: pip install selenium requests futures eventlet
 
       - name: Run itv
-        run: python ${{ github.workspace }}/itv.py
+        run: python ${{ github.workspace }}/iptv.py
      
       - name: Run qita
         run: python ${{ github.workspace }}/qita.py
