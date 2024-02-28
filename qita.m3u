@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="其他频道",西安二套
-http://219.145.93.74:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",陕西一套
-http://219.145.93.74:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",陕西二套
 http://219.145.93.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",陕西西部影视
-http://113.140.69.126:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="2024-02-27更新"
+#EXTINF:-1 group-title="2024-02-28更新"
