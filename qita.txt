@@ -1,4 +1,5 @@
 其他频道,#genre#
+CGTN,http://222.71.189.186:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 QTV1,http://112.6.117.141:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 QTV2,http://112.6.117.141:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 QTV3,http://112.6.117.141:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -24,8 +25,6 @@ QTV6,http://112.6.117.141:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&aut
 山东综艺,http://112.6.117.141:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://112.6.117.141:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://121.33.239.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://218.17.205.210:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://183.94.212.30:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏城市,http://222.92.7.170:3333/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
