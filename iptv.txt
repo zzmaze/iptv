@@ -1,3 +1,13 @@
 央视频道,#genre#
 卫视频道,#genre#
+上海卫视,http://219.145.93.74:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://219.145.93.74:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://219.145.93.74:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://219.145.93.74:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://219.145.93.74:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://219.145.93.74:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://219.145.93.74:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://219.145.93.74:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://219.145.93.74:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 本地频道,#genre#
+陕西一套,http://219.145.93.74:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
