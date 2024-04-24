@@ -1,7 +1,0 @@
-CCTV5,http://219.145.93.74:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://219.145.93.74:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-上海卫视,http://219.145.93.74:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://219.145.93.74:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://219.145.93.74:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://219.145.93.74:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://219.145.93.74:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
