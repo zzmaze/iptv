@@ -1,9 +1,0 @@
-CCTV8,http://219.145.93.74:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0,0.405 MB/s
-CCTV11,http://219.145.93.74:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,0.405 MB/s
-上海卫视,http://219.145.93.74:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0,0.405 MB/s
-山西卫视,http://219.145.93.74:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0,0.494 MB/s
-广西卫视,http://219.145.93.74:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0,0.494 MB/s
-海南卫视,http://219.145.93.74:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0,0.396 MB/s
-西藏卫视,http://219.145.93.74:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0,0.396 MB/s
-重庆卫视,http://219.145.93.74:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0,0.368 MB/s
-青海卫视,http://219.145.93.74:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0,0.368 MB/s
