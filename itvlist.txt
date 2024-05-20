@@ -97,8 +97,11 @@ CCTV15,http://219.145.93.74:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 其他频道,#genre#
 优漫卡通,http://49.87.154.246:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 动漫秀场,http://49.87.154.246:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://121.33.239.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 法治天地,http://49.87.154.246:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳少儿,http://121.33.239.242:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://183.94.212.30:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 财富天下,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://49.87.154.246:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -106,4 +109,4 @@ CCTV15,http://219.145.93.74:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 金鹰纪实,http://183.94.212.30:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 风云剧场,http://49.87.154.246:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://183.94.212.30:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-2024-05-19更新,#genre#
+2024-05-20更新,#genre#
