@@ -4,8 +4,11 @@
 广东影视,http://121.33.239.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 法治天地,http://49.87.154.246:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳少儿,http://121.33.239.242:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://183.94.212.30:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+都市剧场,http://49.87.154.246:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://183.94.212.30:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://183.94.212.30:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 风云剧场,http://49.87.154.246:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://183.94.212.30:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 2024-05-20更新,#genre#
