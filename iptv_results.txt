@@ -44,7 +44,7 @@ CCTV17,http://36.40.237.234:9999/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&a
 四川卫视,http://123.138.216.44:9902/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
 天津卫视,http://36.40.237.234:9999/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
 天津卫视,http://123.138.216.44:9902/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-宁夏卫视,http://123.138.216.44:9902/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0,0.411 MB/s
+宁夏卫视,http://123.138.216.44:9902/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
 安徽卫视,http://36.40.237.234:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
 安徽卫视,http://123.138.216.44:9902/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
 山东卫视,http://36.40.237.234:9999/tsfile/live/0143_2.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
@@ -73,6 +73,6 @@ CCTV17,http://36.40.237.234:9999/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&a
 重庆卫视,http://123.138.216.44:9902/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
 陕西卫视,http://36.40.237.234:9999/tsfile/live/0130_3.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
 陕西卫视,http://123.138.216.44:9902/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-青海卫视,http://123.138.216.44:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0,0.394 MB/s
+青海卫视,http://123.138.216.44:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
 黑龙江卫视,http://36.40.237.234:9999/tsfile/live/0131_3.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
 黑龙江卫视,http://123.138.216.44:9902/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
