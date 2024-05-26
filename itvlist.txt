@@ -101,5 +101,4 @@ CCTV15,http://219.145.93.74:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 第一剧场,http://183.94.212.30:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://183.94.212.30:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://183.94.212.30:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-风云足球,http://183.94.212.30:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 2024-05-26更新,#genre#
