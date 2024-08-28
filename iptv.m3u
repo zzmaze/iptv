@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://123.138.216.44:9902/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",东南卫视
 http://36.40.237.187:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://36.40.237.187:9999/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -39,6 +37,8 @@ http://36.40.237.187:9999/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0
 http://36.40.237.187:9999/tsfile/live/0132_7.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://36.40.237.187:9999/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://123.138.216.44:9902/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://36.40.237.187:9999/tsfile/live/0132_4.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
