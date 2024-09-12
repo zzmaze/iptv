@@ -23,7 +23,6 @@ CCTV17,http://36.40.237.180:9999/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&a
 天津卫视,http://36.40.237.180:9999/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
 安徽卫视,http://36.40.237.180:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
 山东卫视,http://36.40.237.180:9999/tsfile/live/0143_2.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
-山西卫视,http://36.40.237.180:9999/tsfile/live/0132_3.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
 广东卫视,http://36.40.237.180:9999/tsfile/live/0131_2.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
 江苏卫视,http://36.40.237.180:9999/tsfile/live/0123_2.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
 江西卫视,http://36.40.237.180:9999/tsfile/live/0132_8.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
