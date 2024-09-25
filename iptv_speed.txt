@@ -1,4 +1,7 @@
+CCTV1,http://36.40.236.96:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2,http://36.40.236.96:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://36.40.236.96:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://36.40.236.96:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5,http://36.40.236.96:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV6,http://36.40.236.96:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7,http://36.40.236.96:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -16,6 +19,7 @@ CCTV17,http://36.40.236.96:9999/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&au
 内蒙古卫视,http://36.40.236.96:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://36.40.236.96:9999/tsfile/live/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://36.40.236.96:9999/tsfile/live/0132_5.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://36.40.236.96:9999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 天津卫视,http://36.40.236.96:9999/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://36.40.236.96:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://36.40.236.96:9999/tsfile/live/0143_2.m3u8?key=txiptv&playlive=0&authid=0
