@@ -95,4 +95,4 @@ CCTV15,http://219.145.93.74:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 黑龙江卫视,http://123.138.216.44:9902/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 
 其他频道,#genre#
-2025-10-04更新,#genre#
+2025-10-05更新,#genre#
